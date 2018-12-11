@@ -1,0 +1,40 @@
+Package: linux-headers-4.4.157-rt174
+Source: linux-4.4.157-rt174
+Version: 4.4.157-rt174-1
+Architecture: amd64
+Maintainer: Anonymous <root@ifollow-NUC2>
+Installed-Size: 47457
+Provides: linux-headers, linux-headers-2.6
+Homepage: http://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-4.4.157-rt174/linux-headers-4.4.157-rt174_4.4.157-rt174-1_amd64.deb
+Size: 7200650
+SHA256: bb03230e76c0af05e8bda266563fa477a9c17334ac6d6e1538aa86c165361e06
+SHA1: c802d120a84e8b3d3568cb8f4d7a047185777419
+MD5sum: 3c1006c9404bf396fbd18a4d7815223b
+Description: Linux kernel headers for 4.4.157-rt174 on amd64
+ This package provides kernel header files for 4.4.157-rt174 on amd64
+ .
+ This is useful for people who need to build external modules
+
+Package: linux-image-4.4.157-rt174
+Source: linux-4.4.157-rt174
+Version: 4.4.157-rt174-1
+Architecture: amd64
+Maintainer: Anonymous <root@ifollow-NUC2>
+Installed-Size: 189583
+Suggests: linux-firmware-image-4.4.157-rt174
+Provides: linux-image, linux-image-2.6, linux-modules-4.4.157-rt174
+Homepage: http://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-4.4.157-rt174/linux-image-4.4.157-rt174_4.4.157-rt174-1_amd64.deb
+Size: 43094852
+SHA256: 88112b82b653e9eeef6cd71dda45284f0ac462b0503c0c5f7439c231933d4a4c
+SHA1: 596720a7d5fbf20cf839c80ac42bdd0be3b9226c
+MD5sum: e63763b355a6aca36597898d0e6a4074
+Description: Linux kernel, version 4.4.157-rt174
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 4.4.157-rt174.
+

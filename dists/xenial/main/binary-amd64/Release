@@ -1,0 +1,6 @@
+Archive: stable
+Component: main
+Origin: iFollow
+Label: iFollow Github
+Architecture: amd64
+Description: Linux Kernel with RT_PREMPT and Real sense patches to install on iFollow v2 Robots

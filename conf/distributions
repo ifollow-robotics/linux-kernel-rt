@@ -1,0 +1,7 @@
+Origin: iFollow
+Label: iFollow Github
+Suite: stable
+Codename: xenial
+Architectures: amd64
+Components: main
+Description: Linux Kernel with RT_PREMPT and Real sense patches to install on iFollow v2 Robots
