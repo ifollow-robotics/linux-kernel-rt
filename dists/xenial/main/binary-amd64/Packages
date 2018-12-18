@@ -1,3 +1,22 @@
+Package: linux-headers-4.16.18-rt12
+Source: linux-4.16.18-rt12
+Version: 4.16.18-rt12-1
+Architecture: amd64
+Maintainer: Anonymous <root@holybox>
+Installed-Size: 77942
+Homepage: http://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-4.16.18-rt12/linux-headers-4.16.18-rt12_4.16.18-rt12-1_amd64.deb
+Size: 11152720
+SHA256: 34850013033dbf080fd2f1324319482ff6227d33a376b0108dbed57cbd982f8b
+SHA1: ee6cd4c55f4e1fb737aa9360041dc8d95432db0d
+MD5sum: ca8d4708df215fb9e72953ea05f78545
+Description: Linux kernel headers for 4.16.18-rt12 on amd64
+ This package provides kernel header files for 4.16.18-rt12 on amd64
+ .
+ This is useful for people who need to build external modules
+
 Package: linux-headers-4.4.157-rt174
 Source: linux-4.4.157-rt174
 Version: 4.4.157-rt174-1
@@ -17,6 +36,24 @@ Description: Linux kernel headers for 4.4.157-rt174 on amd64
  This package provides kernel header files for 4.4.157-rt174 on amd64
  .
  This is useful for people who need to build external modules
+
+Package: linux-image-4.16.18-rt12
+Source: linux-4.16.18-rt12
+Version: 4.16.18-rt12-1
+Architecture: amd64
+Maintainer: Anonymous <root@holybox>
+Installed-Size: 240594
+Homepage: http://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-4.16.18-rt12/linux-image-4.16.18-rt12_4.16.18-rt12-1_amd64.deb
+Size: 53251786
+SHA256: 10b4c9d8bf74b514ee7a9b090400c0a0dc8ecb468825009f8929cc9940eea18f
+SHA1: d08b212a534a643534144256a1845083707c1f59
+MD5sum: 96b6d099f908b31bc28192d559904c46
+Description: Linux kernel, version 4.16.18-rt12
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 4.16.18-rt12.
 
 Package: linux-image-4.4.157-rt174
 Source: linux-4.4.157-rt174

@@ -2,19 +2,19 @@ Origin: iFollow
 Label: iFollow Github
 Suite: stable
 Codename: xenial
-Date: Tue, 11 Dec 2018 20:32:20 UTC
+Date: Tue, 18 Dec 2018 23:55:30 UTC
 Architectures: amd64
 Components: main
 Description: Linux Kernel with RT_PREMPT and Real sense patches to install on iFollow v2 Robots
 MD5Sum:
- f736df2c6cef69adf70ecc5cbac9a1a1 1532 main/binary-amd64/Packages
- 71d96ea31b1468a6deea1963590f8562 658 main/binary-amd64/Packages.gz
+ 8205f2618f4d346dd9da7ee5df5b2e45 2883 main/binary-amd64/Packages
+ 0d753c60724b400eda4c6d2f24c5d5e2 949 main/binary-amd64/Packages.gz
  eec0a020a17c81b517267b986fe5544a 186 main/binary-amd64/Release
 SHA1:
- d0328a11961d2cd752156c4fbb91ad7d5e8e4f38 1532 main/binary-amd64/Packages
- 5e67086dbe0d5c1317671d3f1c02f41548844b36 658 main/binary-amd64/Packages.gz
+ 76e8b08b3670d4f8aacbe77048431c6f129c23d8 2883 main/binary-amd64/Packages
+ b5cb12631628a89f67a29a42f77f9f3ae6263c43 949 main/binary-amd64/Packages.gz
  6ace8cec521935e1fec14b5753335eb8aa19449b 186 main/binary-amd64/Release
 SHA256:
- 8116d20c45dda5ed0a0a8eb764e2be39d8b8fc4753272e2cf50a148d1f69357c 1532 main/binary-amd64/Packages
- 939e541f88d443989b2eccaf82813cb6a75764f2c6814bf4cf77a3bd780a3391 658 main/binary-amd64/Packages.gz
+ c8eee6ba0ad97f43aa421b261cb74d24b40f8779c828dcff3ca5bdb002bb0afa 2883 main/binary-amd64/Packages
+ e73e04b03d935f838f6e91f18643501b64479d48895c005d37e089ead7f71afc 949 main/binary-amd64/Packages.gz
  f0242d80e25a647e6a9469b4bb3d291340491e2b1202635260784bd25a759114 186 main/binary-amd64/Release
